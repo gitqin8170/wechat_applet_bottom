@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "tabbar": "/pages/index/tab/tab",
+    "home": "/pages/demo/demo",
+    "tag": "/pages/demo/demo",
+    "notebook": "/pages/demo/demo",
+    "me": "/pages/demo/demo"
+  }
+}
